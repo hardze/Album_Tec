@@ -15,8 +15,8 @@ main{
 }
 h1{
   position:absolute;
-  top:50px;
-  left: 710px;
+  top: 50px;
+  left: 475px;
   color: #174e85;
   font-family: 'Gabarito';
   opacity:1;
@@ -40,7 +40,7 @@ h1{
   position: absolute;
   font-size: 30px;
   top: 720px;
-  left: 50px;
+  left: 675px;
   color: #174e85;
   font-family: 'Gabarito';
   opacity:1;
