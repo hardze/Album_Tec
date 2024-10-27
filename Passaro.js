@@ -51,9 +51,11 @@ function incluiPontos(){
 function marcaPonto(){
   if (yPassaro < 15){
     meusPontos += 1;
-    meusPontos = 5
     somDaF1.play();
     voltaPassaroParaPosicaoInicial();
+  }
+  if (meusPontos>=5){
+    window.location.href = "imgs.html";
   }
 }
 
